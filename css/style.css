@@ -1,8 +1,9 @@
 body{
     background-color:#EAF6F6;
-    margin: 0px 300px;
+    margin: 0px 20%;
     padding: 0 30px;
     border-style: double;
+     position: fixed;
 }
 
 hr{
